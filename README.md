@@ -1,6 +1,6 @@
 # cryptocurrency-bitcoin-mining-python
 
-simple python code for mining bitcoin cryptocurrency
+simple python code for mining bitcoin cryptocurrency (for education purpouse)
 
 1. The Concept
 2. Mining
@@ -28,7 +28,7 @@ b5d4045c3f466fa91fe2cc6abe79232a1a57cdf104f7a26e716e0a1e2789df78
 
 # 2. Mining:
 Mining is the processing of guessing a number named "Nonce" that generates hashes with first 'n' number of zeros.
-Example hash output: 000000000000000000006bd3d6ef94d8a01de84e171d3553534783b128f06aad
+```Example hash output: 000000000000000000006bd3d6ef94d8a01de84e171d3553534783b128f06aad```
 
 > bitcoin mine = SHA256(block_number + transaction + previous_hash + nonce)
 
